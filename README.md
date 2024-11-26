@@ -25,3 +25,5 @@ This platform combines banking services with stock exchange functionalities. It 
 - Create and oversee client accounts for both savings and trading purposes.
 - Conduct operations like deposits, withdrawals, stock acquisitions, and sales.
 - Implement robust error-checking for invalid requests or insufficient resources.
+
+![Platform_Scheme](https://github.com/user-attachments/assets/208c86ee-3800-4603-a1fd-85076e1258b4)
